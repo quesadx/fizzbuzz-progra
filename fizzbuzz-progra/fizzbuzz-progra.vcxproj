@@ -128,9 +128,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="fizzbuzz-progra.cpp" />
+    <ClCompile Include="Gato.cpp" />
     <ClCompile Include="Perro.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Gato.h" />
     <ClInclude Include="Perro.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
