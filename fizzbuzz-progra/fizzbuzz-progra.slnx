@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="fizzbuzz-progra.vcxproj" />
+  <Project Path="fizzbuzz-progra.vcxproj" Id="22d111ea-7c9f-4815-b1b2-63999d117434" />
 </Solution>

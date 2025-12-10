@@ -18,5 +18,13 @@
     <ClCompile Include="fizzbuzz-progra.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Perro.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Perro.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
